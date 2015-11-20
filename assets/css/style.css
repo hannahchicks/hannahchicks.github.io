@@ -3,3 +3,14 @@
   border-right: 1px solid black;
   height: 1080px;
 }
+
+#list li{
+  font color: white;
+  width: auto;
+  display: inline;
+  font-size: 15px;
+  margin-left: 7%;
+  margin-right: 7%;
+  font-weight: bold;
+  background-color: red;
+}
