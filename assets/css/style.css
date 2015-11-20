@@ -5,12 +5,12 @@
 }
 
 #list li{
-  font color: white;
+  font color: red;
+  href color: red;
   width: auto;
   display: inline;
   font-size: 15px;
   margin-left: 7%;
   margin-right: 7%;
   font-weight: bold;
-  background-color: red;
 }
