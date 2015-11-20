@@ -6797,4 +6797,16 @@ button.close {
     display: none !important;
   }
 }
+
+#list li{
+  font color: white;
+  width: auto;
+  display: inline;
+  font-size: 15px;
+  margin-left: 7%;
+  margin-right: 7%;
+  font-weight: bold;
+  background-color: red;
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
