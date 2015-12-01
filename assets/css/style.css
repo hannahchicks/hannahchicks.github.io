@@ -25,3 +25,7 @@ h2 {
   font-weight: bold;
   font-family: 'Mountains of Christmas', cursive;
 }
+
+#image {
+  border: 2px dashed red;
+}
