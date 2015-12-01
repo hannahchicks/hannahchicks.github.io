@@ -9,6 +9,7 @@
   display: inline;
   font-size: 30px;
   font-weight: bold;
+  font-family: 'Slabo 27px', serif;
 }
 
 h1 {
@@ -27,4 +28,8 @@ h2 {
 
 #image {
   border: 2px dashed red;
+}
+
+p {
+  font-family: 'Slabo 27px', serif;
 }
