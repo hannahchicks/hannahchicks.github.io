@@ -6,7 +6,6 @@
 
 #list li{
   color: red;
-  border: 2px dashed red;
   display: inline;
   font-size: 30px;
   font-weight: bold;
