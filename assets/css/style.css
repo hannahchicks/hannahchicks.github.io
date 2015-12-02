@@ -32,8 +32,9 @@ img {
   border: 2px dashed red;
 }
 
-p {
+h3 {
   font-family: 'Slabo 27px', serif;
+  font-size: 12px;
 }
 
 a:link{
