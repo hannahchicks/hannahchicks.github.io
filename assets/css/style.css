@@ -35,6 +35,6 @@ p {
   font-family: 'Slabo 27px', serif;
 }
 
-a {
+a:link{
   color: red;
 }
