@@ -30,7 +30,13 @@ h2 {
 
 h3 {
   font-family: 'Slabo 27px', serif;
-  font-size: 12px;
+  font-size: 15px;
+}
+
+h4 {
+  font-family: 'Slabo 27px', serif;
+  font-size: 21px;
+  font-weight: bold;
 }
 
 a:link{
